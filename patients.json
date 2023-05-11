@@ -1,0 +1,58 @@
+[
+  {
+    "Patients": [
+      {
+        "PatientName": "Chico",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 32,
+        "BloodType": 0
+      },
+      {
+        "PatientName": "Graucho",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 57,
+        "BloodType": 2
+      },
+      {
+        "PatientName": "Harpo",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 46,
+        "BloodType": 1
+      }
+    ],
+    "WardName": "Marx Brothers",
+    "Capacity": 3.0,
+    "NumberOfPatients": 3
+  },
+  {
+    "Patients": [
+      {
+        "PatientName": "Fry",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 47,
+        "BloodType": 3
+      },
+      {
+        "PatientName": "Leela",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 46,
+        "BloodType": 2
+      },
+      {
+        "PatientName": "Professor",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 181,
+        "BloodType": 1
+      },
+      {
+        "PatientName": "Bender",
+        "DOB": "0001-01-01T00:00:00",
+        "Age": 26,
+        "BloodType": 3
+      }
+    ],
+    "WardName": "Planet Express",
+    "Capacity": 6.0,
+    "NumberOfPatients": 4
+  }
+]
